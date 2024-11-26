@@ -1,0 +1,15 @@
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\bin\Debug\net8.0\hello world.exe
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\bin\Debug\net8.0\hello world.deps.json
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\bin\Debug\net8.0\hello world.runtimeconfig.json
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\bin\Debug\net8.0\hello world.dll
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\bin\Debug\net8.0\hello world.pdb
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.AssemblyInfoInputs.cache
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.AssemblyInfo.cs
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.csproj.CoreCompileInputs.cache
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.sourcelink.json
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.dll
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\refint\hello world.dll
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.pdb
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\hello world.genruntimeconfig.cache
+D:\oop\hellworld-lab1\oop-2--helloworld-lab1\hello world\obj\Debug\net8.0\ref\hello world.dll
